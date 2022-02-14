@@ -1,0 +1,6 @@
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\bin\Debug\Salario  Funcionario.exe.config
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\bin\Debug\Salario  Funcionario.exe
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\bin\Debug\Salario  Funcionario.pdb
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\obj\Debug\Salario  Funcionario.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\obj\Debug\Salario  Funcionario.exe
+E:\CURSO C#  OO\Calcular Salario\Salario  Funcionario\obj\Debug\Salario  Funcionario.pdb
